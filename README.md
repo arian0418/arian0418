@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I am a dedicated junior with excellent analytical skills, organizational abilities, and success in managing multiple academic projects. As a well-rounded and committed individual, I am interested in expanding on my academic pursuits and experiences in computer science, artificial intelligence, and everything technology-related. I possess both the skills and professional experience needed to delve into the depths of artificial intelligence and software engineering. As an optimistic, self-motivated person who is also a good team member and problem solver, I see an interesting future for myself in creating a technological world powered by artificial intelligence.
+I’m a Computer Science junior at Wayne State University interested in software engineering and artificial intelligence. I enjoy building practical applications that are useful and easy to use.
 
 ### 🛠️ Tech Stack
 
@@ -35,6 +35,13 @@ I am a dedicated junior with excellent analytical skills, organizational abiliti
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+</p>
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arian-azad-32a9922b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:arianazad546@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ### 📊 GitHub Stats
