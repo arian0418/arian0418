@@ -14,12 +14,12 @@ I’m a Computer Science junior at Wayne State University interested in software
 
 ### 💻 Featured Projects
   
-\- **[A to Z AI Communication System](https://github.com/arian0418/atoz-ai-communication-system)** — Customer communication prototype with a dashboard, customer pipeline, quotes, appointments, and a support assistant.  
-\- **[ExitPlan](https://github.com/arian0418/exitplan)** — Java app that calculates when to leave an activity to return by a required time.  
-\- **[FileForge](https://github.com/arian0418/fileforge)** — Python desktop app for organizing files, finding duplicates, and managing folders safely.  
-\- **[StockSight](https://github.com/arian0418/stocksight)** — Python dashboard for exploring stock prices, a simple forecast, and backtest errors.  
-\- **[Blackjack Probability Game](https://github.com/arian0418/blackjack-probability-game)** — C++ Blackjack game with card-draw probabilities and probability-based hit-or-stay suggestions.  
-\- **[Text Analysis App](https://github.com/arian0418/text-analysis-app)** — Java app for word frequencies, sentiment, vocabulary statistics, and cosine similarity comparisons.
+\- **[A to Z AI Communication System](https://github.com/arian0418/atoz-ai-communication-system)** - Customer communication prototype with a dashboard, customer pipeline, quotes, appointments, and a support assistant.  
+\- **[ExitPlan](https://github.com/arian0418/exitplan)** - Java app that calculates when to leave an activity to return by a required time.  
+\- **[FileForge](https://github.com/arian0418/fileforge)** - Python desktop app for organizing files, finding duplicates, and managing folders safely.  
+\- **[StockSight](https://github.com/arian0418/stocksight)** - Python dashboard for exploring stock prices, a simple forecast, and backtest errors.  
+\- **[Blackjack Probability Game](https://github.com/arian0418/blackjack-probability-game)** - C++ Blackjack game with card-draw probabilities and probability-based hit-or-stay suggestions.  
+\- **[Text Analysis App](https://github.com/arian0418/text-analysis-app)** - Java app for word frequencies, sentiment, vocabulary statistics, and cosine similarity comparisons.
 
 ### 🛠️ Tech Stack
 
