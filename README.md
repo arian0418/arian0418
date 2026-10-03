@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I’m a Computer Science junior at Wayne State University interested in software engineering and artificial intelligence. I enjoy building practical applications that are useful and easy to use.
+I’m a Computer Science junior at Wayne State University interested in artificial intelligence, machine learning, and web development. I enjoy building practical, user-friendly applications and learning through hands-on projects.
 
 ### 💻 Featured Projects
   
